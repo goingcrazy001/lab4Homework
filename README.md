@@ -1,4 +1,4 @@
-# Домашнее задание к работе 5
+# Домашнее задание к работе 4
 ## Условие задачи
 <img width="1433" height="142" alt="image" src="https://github.com/user-attachments/assets/a619030a-17e7-4663-b430-88cce421cab2" />
 
