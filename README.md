@@ -12,9 +12,9 @@
 6. Вывести значение переменной `signal`.
 8. Конец.
 ### Блок-схема
-<img width="581" height="858" alt="image" src="https://github.com/user-attachments/assets/470c4e7b-c754-4fe2-a5ac-3ab0cdb09fe9" />
+<img width="473" height="859" alt="image" src="https://github.com/user-attachments/assets/0d79c414-40c8-4569-a0f8-22516602850b" />
 
-[Ссылка на блок-схему](https://viewer.diagrams.net/?tags=%7B%7D&lightbox=1&highlight=0000ff&edit=_blank&layers=1&nav=1&dark=auto#R%3Cmxfile%3E%3Cdiagram%20name%3D%22Page-1%22%20id%3D%220%22%3E7Vptb6s2FP41kdoPifzC68eStHd30qarddLajxRcgi4J1JAm3a%2BfDQZsQxKSkq7VVlVgH79gn3P8nMd2Jni%2B2n2jfrb8LQ1JMkEg3E3wYoIQBBiwF5e8CYntokoS0TgUslZwH%2F9N6qZCuolDkisVizRNijhThUG6XpOgUGQ%2BpelWrfacJupXMz8iHcF94Cdd6V9xWCwrqYPsVv4LiaNl%2FWVouVXJyq8ri5nkSz9Mt5II307wnKZpUaVWuzlJuPZqvVTt7vaUNgOjZF0MaZAXPi26jUQ%2FefFWT5k1Y9plGW%2B7jAtyn%2FkBL9kyCzPZslglLAdZ8jlOknmapLRsh5%2BdgAQBk%2BcFTX826kK8Zrou7vxVnHA3%2BDNeMYsi8DvZsucf6cpfsyrVMF79ZCOGMVmAibson4A%2Fb%2Bw27Xrl81Y0IrQgO2k6QgHfSLoiBX1jVZaSjRxhkG1rT2gJmegF1%2B4n3HaKgRD4wp%2Bipu9W5SwhtN5vgXidbQZZgLlKxpOslp8kJEkj6q%2BYjjJCme4KQvWyH23BiUYLTeKERq%2FR8moxghnEGFiGCS2IXIARMlkhTTfrkPCJAZbzkzhiRlwEbFLlIM4yOLISphIvjF8VdVgvG75GPCUViXfZIs9Yj31N%2BDCm1TxuWAXoZLuyGSiVNM25lqZBmiR%2B6fC8TkZJTugr6f0gq8CsDLzqNa9ei3oYzP7VSNTRMXE5pVp6hsu6XZfFwFRcFmF7ZqpOC80RnJasw68GGjcCHFoAMUsAsc7SvW124cLR4AIZiuZtewzFCyWTsBOhuoZINzSowaPFeck%2Bg5XJWkek0ACrqyFKEr%2BIX9WRvWu66LzpSqB62nRZp%2FTtoQQ4s84%2BCjwrM4udknuTcxLglsKu7qJsfudZ4YO1%2FO5mv2L3ZQ5fpnvcbbAyRdMfacw00rqfq7lbNQ5RSzNB89lBVtk%2Fi6MxrLOeJRCoA9xqF3HeOHtO0m2wZH47C0kQ53G63gMkGnrAJx%2BSGitkVCn%2FGlSRSgCwbm%2FuDoUfFgBODD%2F8471Nguq7PKwkHFCmoU9%2FXtHo6QpUoUO8kGleVylehgxbiA3cll9XgUuPaK6IaO3YwLMfqMPo8%2F%2FOZK6ueH8s56%2B4okXk4iMEE3vO%2FxFQaggVAHgtVakU8kRbFYEr72i%2F3jn98q7nR7uenzXkxdF%2BF%2F39XktBv3KLDhco%2FesdXACBLhlAWA1IDcett10jxKNeKEBDoEDliqfxAwIZQ7X7VrJr2di3Dq1ksS5PXQ%2FHeSSyOquuMiglxYZyKgr3%2BsEZFod9FkeqxQ3V4EgPCaNZ3D4vTB8KJDKNXIc3fNfO9xKJn%2BdxoHqH6kpSCGfuIAfxKZgBhI9F8l1cPEjpx5YMsFzbiGfkNnrwfw8jQD3ee8wfalrfSxskHzlE%2F8svMFX7b1KFjDOGfD%2FRgFiDFQg0f6p63NPa0lpjUx1f5S8d2tLpCGm7c0fr58L0x%2FlMK0C4MBzDhauVZGGo0OEZAMYFKbH7lRaA5TgzB71jDZj6GkDaEIeuAcvuX4oftQjczxz491F4iY93STi4HkLyL0AmwB4yUdA4ithyYi7Cmwv27TV82WvorTdRT6EuxDyH8BDT%2FCgiUjv8KDjsjoTDDD4hkrAYMhrivAeNTzqaGAi5EP6bmNuFMo27mvpZ%2B2BMdIyZpZ7EmfhjYREOOhv5HxeH4CLag4vVzvvwwb82I8jtIs0JYqd%2FVk9pmuw9zgd5HK39pAHkKwmh1aOAshh%2FwGFALyTbhyHZMC4GyXhESEajQXJNhx8lorwHjBvgVSlwg8KDgbe5NvkaxBZqPuKA%2BjZp4N5O25I1PPdUDMdIG8gH81poDAHwS17Qln1%2FX%2BdxSJoIsCP1TyP6rtCeiSVdocmXu7b7BFr%2F1O%2FJ2BNOnPIq3SslXnln5hkc0HjirnyaZTVQp9lzLqUX0rNq7kpIORKkQVe97DQd%2FbLTuhyoWSOCGhxrw38eql2GThqfi05qUGQ559JJba9ufTSXHPWo1RjN8QxTPm1iOxyMDrvfoR0O%2FI8FWss2mQJ7Q9ywSGvpAVIHvnNPkOzRbpFZtv1ZW1W9%2FXUgvv0H%3C%2Fdiagram%3E%3C%2Fmxfile%3E)
+[Ссылка на блок-схему](https://viewer.diagrams.net/?tags=%7B%7D&lightbox=1&highlight=0000ff&edit=_blank&layers=1&nav=1&dark=auto#R%3Cmxfile%3E%3Cdiagram%20name%3D%22Page-1%22%20id%3D%220%22%3E7Vnfb9s2EP5rDLQPDkjq92NsJ10HbCiWAe0eGYmRhdGmQsmxvb9%2BR4qySElxEsfuVqAvFHm8o3l3n74j5Yk3X%2B0%2BSVoufxMZ4xOCst3EW0wIwT724aEkeyNJAiPJZZEZWSe4K%2F5hRoiMdFNkrHIUayF4XZSuMBXrNUtrR0alFFtX7UFw91dLmrOB4C6lfCj9WmT1spHGJOrkv7AiX7a%2FjMOkmVnRVtl4Ui1pJraWyLuZeHMpRN30Vrs54yp6bVwau9tnZg8bk2xdv8agqqmsh0Zmnarety6DGUQXBrPtsqjZXUlTNbOFDINsWa84jDB0HwrO54ILqe28hzhlaQryqpbi70O4iNIU6%2FqWrgquYPBnsYKMEvQ720L7h1jRNag023iifGO2MVmgSbLQLVLtddT1k5lub4wRkzXbWe6YAHxiYsVquQeVpZWj2CRk2%2BUTh0ZmVvFa%2BBnYTj1kBNTgKT%2Bs3YUcOibq4xko1uXmVRkAqJSqC1qUc8ZFLukKYlQyCbGrmezPfekm3pi0LGBx5o8mrWpeRnSFPQ%2BFfoBDTBLkERLApBSbdcaUYwhGlBc5JHGRglN6EyclnIQcQjLLiicnHOHjRr0jM6eXm6e2qEpYccxEbWPa%2BHENCjgud9oM6SBNKxWlaSo4pxrwSqeUrGLyiY3%2BIChAltGsecybx6LdBuS%2F2Ym7OxBrl1rpCZBNhpD1UOBAlnjRVeCCFgdnAC1bZz8aaVwbcugIJNAEEp4U%2BygY0kXcowuUOJGPknME3gSZZYMKNUyE2Mi0JY%2BO5638vDqYYJ2zukdYwwhJxmldPLk7e5e75DR3LVJ9m7uwqNx%2F0wQXtMO%2FDJ%2FpwWLnjPZmNAxTXs5vZ2H2LVx%2BTspfveRxjh%2BnyTvjZky%2FiAKc75CWuO847gGt2ZYx6gX%2FsItX5eN5p16iArc0vI0OGIaCFB3owJpJwsij4bG6Acw9WgTSZhFF7jK%2F%2F4Aa1m4fH49WFoUjdWykqbvmGKSsRV4uRRDE3egv17LIc6ihcJpT5kgpT8isqTqmNz%2F07NrT7HVQe3RY3lF7MBoWn8Ohti0%2Bse%2FA8hyFZxSALd7fyhLH0GxXsXV2rS4N6ijDaVUVqYtWF9psV9QNgcDJyIwVg%2BArRGIz7khEDfbWwDqzdSxzOT7CeOTFeSn3bR5HWcvCw7F8jxNZ6KMeYnpLNNkbMNlwodi%2FCnvo874vK%2BIjGPxJi2%2BjRfIMLWrGe%2BG03%2FMIq7xYPmEvHvfqXgj%2B7BkeVXC1ofzAxx8sgiYhXanENap62vv4HzFy1GPkyD2SeuRilOy%2FBv2XvNLqtT%2BvqyJjh9dnx9qPSWOXjgcWWpcO%2BzocJfeoY9X%2BzQJaPIn1x4eZlsz0LWPmKzSozq1uA62G2j60c6u%2FsNrGPLFgdiY84MS9HvavKOHl8BCesUTjkZvmiTU6sCv08ep84Urs%2F78qce9bVxifWonD3kLfuwxH5wSefzbg%2BQGeOIdDjxyH30UPh4fvOReFn4HEFF3hkJAXIAlRpXtLoVQIqY5jjbhYi%2F1TQRu5Cw0%2B3ZwMWhh2H%2Fcb9e4%2FEu%2FmXw%3D%3D%3C%2Fdiagram%3E%3C%2Fmxfile%3E)
 
 ## Реализация программы
 Программа написана на языке C++
@@ -32,14 +32,6 @@ int main() {
     printf("Введите 4 числа, разделенных пробелом: ");
     scanf("%d %d %d %d", &A, &B, &C, &D);
 
-    if ((A < 0 || A > 1) ||
-        (B < 0 || B > 1) ||
-        (C < 0 || C > 1) ||
-        (D < 0 || D > 1)) 
-    {
-        printf("Ошибка: Введены некорректные значения. Вводите только 0 или 1.\n");
-        return 1;
-    }
     trigger = A + B + C + D;
     bool signal = (trigger >= 3);
     printf("Условие включения записи (1 - включено, 0 - выключено): %d\n", signal);
